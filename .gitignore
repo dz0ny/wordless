@@ -1,4 +1,5 @@
-.DS_Store
-.sass-cache
-*.sublime-*
+composer.phar
 docs/build
+*.sublime-*
+.sass-cache
+.DS_Store

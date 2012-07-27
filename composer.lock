@@ -1,0 +1,26 @@
+{
+    "hash": "62f97549268d0e2d563ff47df55e4fdb",
+    "packages": [
+        {
+            "package": "mthaml/mthaml",
+            "version": "dev-master",
+            "source-reference": "1.0.1",
+            "commit-date": "1343407888"
+        },
+        {
+            "package": "twig/twig",
+            "version": "dev-master",
+            "source-reference": "657de7bdeb680815e0df95f63da9f81e1533d2ea",
+            "commit-date": "1342953178"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "mthaml/mthaml": 20,
+        "twig/twig": 20
+    }
+}

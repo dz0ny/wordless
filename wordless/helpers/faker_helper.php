@@ -83,7 +83,7 @@ class FakerHelper {
 
     $generator = new LoremIpsumGenerator;
 
-    $html_format = $options['html'] ? 'plain' : 'html';
+    $html_format = $options['html'] == false ? 'plain' : 'html';
     $start_with_lorem_ipsum = $options['lorem'];
 
     return ucfirst($generator->getContent($count, $html_format, $start_with_lorem_ipsum));

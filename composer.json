@@ -1,0 +1,15 @@
+{
+    "name": "dz0ny/wordless",
+    "description": "Wordpress with haml/twig",
+    "require": {
+        "mthaml/mthaml": "dev-master",
+        "twig/twig": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Janez Troha",
+            "email": "janez.troha@gmail.com"
+        }
+    ]
+}
